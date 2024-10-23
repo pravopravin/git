@@ -1,3 +1,18 @@
+<<<<<<< HEAD"glossary"
+=======
+{
+    "glossary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+                "GlossE					"SortAs": "SGML",
+					"GlossTerm": "Standard Generalized Markup Language",
+					"Acronym": "SGML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+>>>>>>> hub
 						"GlossSeeAlso": ["GML", "XML"]
                     },
 					"GlossSee": "markup"
@@ -5,5 +20,5 @@
             }
         }
     }
-              PART - 2
-             EXAMPLE CODE
+              PART - 2 editttttttttttttttttt
+             EXAMPLE CDE2e2eh
